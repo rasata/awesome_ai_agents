@@ -1233,6 +1233,7 @@ The key tools for building AI agents include benchmarks (to evalutae performance
 - [Orchestrai](https://github.com/samshapley/OrchestrAI) - A framework for building and testing custom autonomous agents.
 - [Othello-Fx](https://github.com/EudyContreras/Othello-FX) - Othello game framework made with JavaFX which can be use for testing Othello AI Agents.
 - [Pentesting-Ai](https://github.com/Lstalet04/Pentesting-AI) - Multi agent penetration testing AI
+- [Pydantic-AI](https://github.com/pydantic/pydantic-ai) - Agent framework / shim to use Pydantic with LLMs, useful for ensuring LLM inputs/outputs have type safety [github](https://github.com/pydantic/pydantic-ai) | [docs](https://ai.pydantic.dev/)
 - [Plark_Ai_Public](https://github.com/montvieux/plark_ai_public) - ... provide a basis for more extensive, long-term, and cutting edge research. The test bed can be used as a basis to research the limits of
 - [Rag-System](https://github.com/thetom42/rag-system) - Test Project with Replit AI Agent
 - [Raven-Test-Ai](https://github.com/dhurng/Raven-Test-AI) - An AI agent that can solve Raven Tests, visual iq tests
